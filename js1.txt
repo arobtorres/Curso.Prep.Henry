@@ -1,0 +1,14 @@
+1-Variables:
+hay tres formas de declarar una variable: var, let y const. las variables son como cajas en las cuales se guardan datos y esas cajas tienen un nombre que las identifican, de esta forma se puede acceder a los datos mediante el nombre de la variable, las variables radican en la memoria del ordenador.
+
+2-Strings:
+son uno o más caracteres encerrados entre comillas simples o dobles.
+
+3-Funciones:
+son bloques de código reutilizables que realizan una tarea, pueden mostrar un mensaje en la consola o retornar un valor mediante la keyword return, las funciones pueden recibir argumentos los cuales se encuentran dentro de los parentesis de la función.
+
+4-Declaraciones if:
+son para evaluar una condición, la cual devuelve verdadero o falso, si es verdadero se ejecuta el bloque de código dentro del if, si es falso se ejecuta el bloque de código dentro del else.
+
+5-Valores Booleanos:
+provienen de la lógica de Boole, básicamente esto significa, 0 o 1, encendido o apagado, verdadero o falso.
